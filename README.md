@@ -1,7 +1,7 @@
 # SmartBrain - v3
-Final project for ZTM course
+This app was built as the final project for Andrei Neagoie's ZTM course. This fork is using it as a code analysis exercise.
 
-
-1. Clone this repo
+## GEtting started
+1. Clone/fork this repo
 2. Run `npm install`
 3. Run `npm start`
